@@ -1,0 +1,31 @@
+_repo: How-to-Use-the-Popular-Science-Library-History-of-Science-General-Index_51133
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Selwyn-Brown, Arthur
+    gutenberg_agent_id: '46256'
+    url: http://www.gutenberg.org/2009/agents/46256
+  - agent_name: Serviss, Garrett Putman
+    alias: Serviss, Garrett P. (Garrett Putman)
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '2120'
+    url: http://www.gutenberg.org/2009/agents/2120
+    wikipedia: http://en.wikipedia.org/wiki/Garrett_P._Serviss
+description: ''
+gutenberg_issued: '2016-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51133'
+  lccn: '23000740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science -- History'
+- !lcsh 'Popular science library'
+- GITenberg
+title: How to Use the Popular Science Library; History of Science; General Index
+url: http://www.gutenberg.org/ebooks/51133
