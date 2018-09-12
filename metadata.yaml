@@ -1,5 +1,8 @@
 _repo: How-to-Use-the-Popular-Science-Library-History-of-Science-General-Index_51133
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51133-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Selwyn-Brown, Arthur
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2120
     wikipedia: http://en.wikipedia.org/wiki/Garrett_P._Serviss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51133#How-to-Use-the-Popular-Science-Library-History-of-Science-General-Index
 gutenberg_issued: '2016-02-06'
 gutenberg_type: Text
 identifiers:
